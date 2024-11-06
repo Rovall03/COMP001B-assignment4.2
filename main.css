@@ -12,57 +12,58 @@
 */
 
 a:link, a:visited {
-	color: blue;
+	color: rgb(255, 64, 64);
 }
 
 a:focus, a:hover {
-	background-color: #ddddff;
+	background-color: #deffdd;
 	border-radius: 5px;
 	text-decoration: underline;
 	transition-duration: 0.2s;
 	transition-property: background;
 }
 
-body {
-
+body {font-size: 20px; 
 }
 
 code {
+
 	
 }
 
-h1, h2, h3 {
+h1, h2, h3 {margin-bottom: 10px;
 
 }
 
 h1 {
-
 }
 
 h2 {
 
 }
 
-h3 {
+h3 {margin-top: 10px;
 	
 }
 
-header {
+header {margin: 1em;
 	
 }
 
-main {
+main {;
+
 
 }
 
-p {
+p {line-height: height 140% ; text-indent: 1em; text-align: left;
+
+	
+}
+
+#intro {margin: 1em;
 
 }
 
-#intro {
-
-}
-
-#how-does-it-work, #influence, #joke {
+#how-does-it-work, #influence, #joke { margin: 1em;
 
 }
